@@ -1,0 +1,21 @@
+{
+  "name": "fusion_siteDetail",
+  "description": "fusion site detail component",
+  "main": "",
+  "keywords": [
+    "siteDetail"
+  ],
+  "authors": [
+    "Swati",
+    "Manohar"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
